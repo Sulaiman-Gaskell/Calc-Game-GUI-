@@ -2,6 +2,10 @@
 Changelog
 *********************
 
+1.4.0 (Development started again):
+    Latest build now also runs on linux (View readme.md for more details)
+    
+
 V1.3.0:
     NEW: End screen; choose to play again or exit to the launcher
     This is currently a work in progress and currently is only for functionality. 
