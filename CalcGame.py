@@ -338,10 +338,10 @@ finishTxt = tk.Label(
 def com(wC):
     root.destroy()
     if wC == 1:
-        call(['python', 'CalcGame.py'])
+        call(['python3', 'CalcGame.py'])
         sys.exit()
     elif wC == 2:
-        call(['python', 'launcher.py'])
+        call(['python3', 'launcher.py'])
         sys.exit()
 
 pA = tk.Button(
