@@ -3,9 +3,13 @@ Changelog
 *********************
 
 1.4.1:
+    Missing features from windows version:
+        Question number indicater
     Bugs fixed:
         Not being able to close the windows
         Weird window sizing
+    Known bugs:
+        Green progress bar is truncated
 
 1.4.0 (Development started again):
     Latest build now also runs on linux (View readme.md for more details)
