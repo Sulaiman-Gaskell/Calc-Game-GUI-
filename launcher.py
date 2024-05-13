@@ -34,5 +34,5 @@ Click anywhere to play''',
 ).pack()
 
 welcome.mainloop()
-call(['python', 'CalcGame.py'])
+call(['python3', 'CalcGame.py'])
 sys.exit()
