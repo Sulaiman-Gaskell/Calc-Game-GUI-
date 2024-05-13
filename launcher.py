@@ -18,7 +18,7 @@ def on_closing():
 
 welcome.protocol("WM_DELETE_WINDOW", on_closing)
 
-label = ttk.Label(welcome,text='V1.2.0', foreground='white',background='black').pack()
+label = ttk.Label(welcome,text='V1.4.0', foreground='white',background='black').pack()
 button = tk.Button(
     welcome,
     text='''Welcome to the Calculator game!
