@@ -2,6 +2,11 @@
 Changelog
 *********************
 
+1.4.1:
+    Bugs fixed:
+        Not being able to close the windows
+        Weird window sizing
+
 1.4.0 (Development started again):
     Latest build now also runs on linux (View readme.md for more details)
     
