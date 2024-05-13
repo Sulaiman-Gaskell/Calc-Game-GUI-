@@ -4,12 +4,12 @@ Run CalcGame.py to play
 
 Setup for windows:
   Make sure you have at least python3 installed
-  Download and extract zip
+  Download and extract zip from the Windows branch
   In same directory run:
     pip install requirements.txt
 
 Setup for linux:
-  Download and extract zip
+  Download and extract zip from the Linux branch
   In same directory run:
     sudo apt install python3-tk
 
